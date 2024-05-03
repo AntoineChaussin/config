@@ -1,0 +1,4 @@
+theme = "base16_terminal"
+
+[keys.normal]
+";" = "command_mode" 
